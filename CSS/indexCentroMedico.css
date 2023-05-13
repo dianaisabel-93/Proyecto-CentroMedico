@@ -44,7 +44,9 @@ a {
     margin-right: 20px;
 }
 
-img {
+.medicos {
+    width: 400px;
+    height: 300px;
     margin-left: 150px;
 }
 
